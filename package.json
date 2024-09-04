@@ -1,0 +1,28 @@
+{
+  "name": "guess-word-random",
+  "version": "1.0.0",
+  "description": "npm package for a game guess the word, with random words in total are 49, and with 3 clues for every word.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rStart": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1EGO-R0JAS/guess-word-random.git\u001b[C.git"
+  },
+  "keywords": [
+    "clues",
+    "guess the word game",
+    "random word"
+  ],
+  "author": "Diego Rojas <d.andres.rojas.2012@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D1EGO-R0JAS/guess-word-random.git\u001b[C/issues"
+  },
+  "homepage": "https://github.com/D1EGO-R0JAS/guess-word-random.git\u001b[C#readme",
+  "dependencies": {
+    "random_numbers_generator": "^2.0.0"
+  }
+}
