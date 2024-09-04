@@ -19,9 +19,9 @@
   "author": "Diego Rojas <d.andres.rojas.2012@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/D1EGO-R0JAS/guess-word-random.git\u001b[C/issues"
+    "url": "https://github.com/D1EGO-R0JAS/guess-word-random"
   },
-  "homepage": "https://github.com/D1EGO-R0JAS/guess-word-random.git\u001b[C#readme",
+  "homepage": "https://github.com/D1EGO-R0JAS/guess-word-random/#readme",
   "dependencies": {
     "random_numbers_generator": "^2.0.0"
   }
